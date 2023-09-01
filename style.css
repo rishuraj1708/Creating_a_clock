@@ -1,0 +1,19 @@
+body{
+  background-color:black;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+#first{
+  background-color:rgb(38, 9, 9);
+  text-align: center; 
+  height: 250px;
+  width: 250px;
+  border: 4px solid rgb(4, 4, 85);
+  border-radius: 50%;
+}
+#second{
+  color: white;
+  padding: 32% 25%;
+}
